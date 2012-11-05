@@ -1,0 +1,10 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'active_support'
+gem 'activerecord'
+gem 'sqlite3'
+
+# gem "rails"
